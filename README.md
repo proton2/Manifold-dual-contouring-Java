@@ -1,6 +1,8 @@
 # Manifold dual contouring Java LWJGL
 
 Java version of Manifold Dual contouring author John Lin20 https://github.com/Lin20/isosurface
+<br>
+Article: https://people.engr.tamu.edu/schaefer/research/dualsimp_tvcg.pdf
 
 ## Build Instructions
 The dependencies are:
@@ -27,8 +29,3 @@ middle mouse - camera walking
 Use:
 
 Oreon Engine (Java - OpenGL/Vulkan) https://github.com/fynnfluegge/oreon-engine
-
-<br>
-
-Article:
-https://people.engr.tamu.edu/schaefer/research/dualsimp_tvcg.pdf
