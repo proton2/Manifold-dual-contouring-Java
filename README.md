@@ -20,7 +20,7 @@ W/S/A/D - forward, backward, left, right
 
 F1 - solid / wireframe
 
-F2 - Show chunks octree bounds
+F2 - decrease / increase detalization
 
 middle mouse - camera walking
 
